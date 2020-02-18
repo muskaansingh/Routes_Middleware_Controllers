@@ -1,0 +1,11 @@
+{
+    "name": "routes",
+    "version": "1.0.0",
+    "description": "routes",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "author": "Muskaan Singh",
+    "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "controller",
+    "version": "1.0.0",
+    "description": "controller",
+    "main": "post.js",
+    "scripts": {
+        "dev": "nodemon post.js"
+    },
+    "author": "Muskaan Singh",
+    "license": "ISC"
+}
